@@ -25,7 +25,7 @@
 
 ## 🐛 Feedback & Issues
 
-Report bugs or submit ideas via the [Issues](https://github.com) tab.
+Report bugs or submit ideas via the [Issues](/andr3asdev/petshark-app/issues) tab.
 
 ---
 
