@@ -1,7 +1,7 @@
 # 🦈 Pet Shark: Free 3D Shark Live Wallpaper & Simulator
 
 **Official Website:** [https://petshark.app](https://petshark.app)  
-**Download for Android:** [Get it on Google Play]([https://google.com](https://play.google.com/store/apps/details?id=com.petshark.livewallpaper)
+**Download for Android:** [Get it on Google Play](https://play.google.com/store/apps/details?id=com.petshark.livewallpaper)
 
 **Pet Shark** is a real-time 3D shark live wallpaper, virtual pet aquarium, and predator simulator for Android built with **Three.js** and **Kotlin**.
 
